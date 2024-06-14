@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-    AWS_REGION: us-east-1
+    AWS_REGION: ap-south-1
     CONTAINER_NAME: express-app
     ECR_REGISTRY: 895767799518.dkr.ecr.us-east-1.amazonaws.com
     ECR_REPO: pearlthrough-ecr
