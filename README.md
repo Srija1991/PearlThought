@@ -1,2 +1,1 @@
-# pearlthrough
-[![Deploy to AWS ECS Fargate](https://github.com/AshutoshAM2002/pearlthrough/blob/actions/workflows/aws-ecs.yml/badge.svg?branch=master)](https://github.com/AshutoshAM2002/pearlthrough/blob/actions/workflows/aws-ecs.yml/badge.svg?branch=master)
+PearlThoughts: DEPLOYING an Node.js Applicationon AWS ECS using Github Actions for CD and Terraform as IaC service.
