@@ -9,7 +9,7 @@ env:
     AWS_REGION: ap-south-1
     CONTAINER_NAME: express-app
     ECR_REGISTRY: 830975877324.dkr.ecr.ap-south-1.amazonaws.com
-    ECR_REPO: pearlthrough-ecr
+    ECR_REPO: pearlthoughts-ecr
     ECS_CLUSTER: express-app-cluster
     ECS_ID: express-app
     ECS_SV: express-app-service
